@@ -1,0 +1,25 @@
+body
+{overflow-x:hidden;
+	width:100%;
+	font: 12px "Century Gothic", "Times Roman", sans-serif;
+	background:#eee;
+	min-height:550px;
+	background-attachment:fixed;
+}
+.bg{
+	min-height:540px;
+}
+.bg1{
+	background:url(../image/bg.jpg);min-height:535px;background-repeat: repeat-x;background-color: #202020;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;}
+
+.panel{border-color:#eee;margin:40px;padding:20px;font: 15px "Century Gothic", "Times Roman", sans-serif;}
+.title{font-family:'typo';}
+.header{background:#202020;height:70px;}
+.logo{font-family:'typo';font-size:35px;color:#ffffff;margin:15px;}
+.title1{font: 12px "Century Gothic", "Times Roman", sans-serif;}
+.title2{font-family: 'Ubuntu', sans-serif;font-size:20px;}
+.sub1{color:#FFFFFF;background:#0000ff;font-size:15px;margin:20px;padding:8px;}
+.logb{color:#FFFFFF;background:#0000ff;font-size:15px;margin:20px;padding:8px;}
+.logb:hover{color:lightyellow;}
+.sub{color:#FFFFFF;background:#0000ff;font-size:15px;margin:20px;padding:8px;}
+.sub:hover{background-color:#000066;}
